@@ -1,3 +1,5 @@
-# hello-world
-README
-Welcome to our club
+AutoScript Installer Create by AnakAntuu
+
+===Welcome to Ant Club===
+
+## Os Debian 7
